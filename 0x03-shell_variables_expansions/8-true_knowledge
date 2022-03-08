@@ -1,2 +1,2 @@
 #!/bin/bash
-PS4
+TRUEKNOWLEDGE="$(( + 129))"
