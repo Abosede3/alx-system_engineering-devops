@@ -1,2 +1,2 @@
 #!/bin/bash
-TRUEKNOWLEDGE="$(( + 129))"
+export TRUEKNOWLEDGE=" 129"
